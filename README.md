@@ -56,7 +56,7 @@ Podczas realizacji projektu napotkano i rozwiązano krytyczne problemy techniczn
 * *Insight:* The analysis isolates and defines the exact characteristics (e.g., average square footage, room counts) that constitute the luxury tier across top Polish metropolitan areas (Warsaw, Kraków, Poznań).
 
 #### 3. Data Architecture Anomaly Detection (Seasonality)
-![Data Quality Anomaly Chart](anomaly.png)
+![Data Quality Anomaly Chart](anomaly_chart.png)
 * **Objective:** Investigate the distribution of new property listings across different days of the week.
 * *Data Quality Discovery:* The SQL query exposed highly unnatural spikes in volume (concentrated batches on Tuesdays and Thursdays). This led to a crucial engineering conclusion: the dataset represents a periodic batch-processing snapshot (web scraping intervals) rather than a real-time, continuous data stream.
 
