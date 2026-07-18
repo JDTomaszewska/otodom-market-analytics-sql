@@ -16,7 +16,7 @@ SQL & Python project analysing over **33,000 housing listings** to identify mark
 
 📓 **Jupyter Notebook (.ipynb)**
 
-➡️ [Open notebook](analytics_pipeline.ipynb)
+➡️ [Open notebook](otodom.ipynb)
 
 ---
 
