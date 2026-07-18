@@ -36,7 +36,7 @@ The objective was to clean and analyse a large housing market dataset in order t
 
 ✔ Python data analysis
 
-✔ Business insights
+✔ Business analysis
 
 ✔ Data quality validation
 
@@ -44,7 +44,8 @@ The objective was to clean and analyse a large housing market dataset in order t
 
 ## Tech Stack
 
-- SQL (DuckDB)
+- DuckDB
+- SQL
 - Python
 - Pandas
 - Matplotlib
